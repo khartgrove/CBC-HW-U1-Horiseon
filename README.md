@@ -3,7 +3,7 @@
 "Horiseon" Code Refactor Assignment
 
 Description:
-For this assignment, the digital marketing company "Horiseon" sought to increase the accessibility of their website. Developed followed acceptance criteria to meet these requirements.
+For this assignment, the digital marketing company "Horiseon" sought to increase the accessibility of their website. Developer followed acceptance criteria to meet these requirements.
 
 Installation:
 Project is compatible with standard web browsers. Access only requires the URL.
